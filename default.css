@@ -1,0 +1,16 @@
+    #main {
+      background-color: black;
+      color: white;
+      font-family: "Courier New", monospace;
+      width: 50%;
+      margin: auto;
+
+    }
+
+    img {
+
+      max-width: 100%;
+      height: auto;
+      margin: auto;
+      display: block;
+    }
